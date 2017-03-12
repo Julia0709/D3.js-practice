@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+.arc text {
+  font: 10px sans-serif bold;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.arc2 text {
+  font: 10px sans-serif bold;
+  text-anchor: middle;
+}
+
+.arc2 path {
+  stroke: #fff;
+}
